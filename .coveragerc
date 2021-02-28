@@ -2,6 +2,3 @@
 branch = True
 include =
     myproj/*
-
-[tool:pytest]
-testpaths=test
